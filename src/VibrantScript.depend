@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1390269021 source:c:\users\won\desktop\vibrantscript\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../include/reader.h"
+	"../include/parser.h"
+
+1390266098 c:\users\won\desktop\vibrantscript\include\reader.h
+
+1390271036 c:\users\won\desktop\vibrantscript\include\parser.h
+
+1390271343 source:c:\users\won\desktop\vibrantscript\src\parser.c
+	"../include/parser.h"
+	<stdio.h>
+	<string.h>
+
+1390268936 source:c:\users\won\desktop\vibrantscript\src\reader.c
+	"../include/reader.h"
+	<stdlib.h>
+	<stdio.h>
+
